@@ -45,7 +45,7 @@ const Header = () => {
           ))
         }
       </div>
-      <p className='mt-2 text-neutral-600'>Generate images from imagify</p>
+      <p className='mt-2 text-neutral-600'>Generate images from imgAIne</p>
       <div></div>
     </motion.div>
   )
